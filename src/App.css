@@ -35,8 +35,8 @@ html, body, #root{
   justify-content: center;
 }
 
-.app-body {
-  margin-top: 70px;
+.App-body {
+  margin-top: 100px;
 }
 
 .error {
